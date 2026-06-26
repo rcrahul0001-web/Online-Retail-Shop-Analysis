@@ -3,8 +3,9 @@
 
 An end-to-end business intelligence project built on a real-world e-commerce dataset — covering data cleaning, exploratory analysis, and an interactive Streamlit dashboard.
 
-![Dashboard Preview](<img width="1920" height="931" alt="image" src="https://github.com/user-attachments/assets/ec2ab334-396a-4c3a-bf33-54ef45f0fed2" />
-)
+[Dashboard Preview]
+<img width="1920" height="931" alt="image" src="https://github.com/user-attachments/assets/c58cd41b-aee8-405e-b7ae-e5fa792ce9b7" />
+
 
 ---
 
